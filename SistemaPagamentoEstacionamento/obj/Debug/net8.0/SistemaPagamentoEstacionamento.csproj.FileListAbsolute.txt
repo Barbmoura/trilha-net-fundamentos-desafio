@@ -1,0 +1,14 @@
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\SistemaPagamentoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\SistemaPagamentoEstacionamento.AssemblyInfoInputs.cache
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\SistemaPagamentoEstacionamento.AssemblyInfo.cs
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\SistemaPagamentoEstacionamento.csproj.CoreCompileInputs.cache
+C:\SistemaPagamentoEstacionamento\bin\Debug\net8.0\SistemaPagamentoEstacionamento.exe
+C:\SistemaPagamentoEstacionamento\bin\Debug\net8.0\SistemaPagamentoEstacionamento.deps.json
+C:\SistemaPagamentoEstacionamento\bin\Debug\net8.0\SistemaPagamentoEstacionamento.runtimeconfig.json
+C:\SistemaPagamentoEstacionamento\bin\Debug\net8.0\SistemaPagamentoEstacionamento.dll
+C:\SistemaPagamentoEstacionamento\bin\Debug\net8.0\SistemaPagamentoEstacionamento.pdb
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\SistemaPagamentoEstacionamento.dll
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\refint\SistemaPagamentoEstacionamento.dll
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\SistemaPagamentoEstacionamento.pdb
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\SistemaPagamentoEstacionamento.genruntimeconfig.cache
+C:\SistemaPagamentoEstacionamento\obj\Debug\net8.0\ref\SistemaPagamentoEstacionamento.dll
